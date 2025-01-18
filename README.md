@@ -1,6 +1,6 @@
-## 👋
+## Hello 👋
 
-### Experience and Interests
+I am a software engineer. Here is a summary of my experience and interests:
 
 - Web engineering: development of complex applications with large numbers of users spread globally
 - Microservices: REST and gRPC
