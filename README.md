@@ -1,4 +1,4 @@
-### Experience:
+### Experience
 
 - 9+ years
 - Engineering management:  
