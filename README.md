@@ -2,7 +2,9 @@
 
 - 9+ years
 
-
+| Experience | Details |
+| --- | --- |
+| 9+ years | |
 | Engineering management | <ul><li>Working across disciplines, supporting product and engineering teams</li><li>Ability to solve problems and encourage collaboration</li><li>Ability to collect and provide meaningful context</li></ul> |
 | Web engineering | <ul><li>Development of complex applications serving users globally</li><li>Automated testing</li><li>Microservices (REST and gRPC)</li><li>UX design and optimization</li></ul> |
 | Languages | <ul><li>English native speaker</li><li>Japanese</li></ul> |
