@@ -15,8 +15,8 @@
     - English native speaker
     - Japanese beginner
 - Education:
-    - Shinjuku Language Institute, Japanese 150h (2025)   
-    - University of Sheffield, MSc Chemistry (2010)
+    - Shinjuku Language Institute (2025), Japanese 150h
+    - University of Sheffield (2010), MSc Chemistry
       
 ### Tech Stack
 
