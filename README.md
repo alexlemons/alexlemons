@@ -16,6 +16,10 @@
 - Education:  
     - University of Sheffield, MSc Chemistry
  
+| --- | --- |
+| Engineering management | - Working across disciplines, supporting product and engineering teams  - Ability to solve problems and encourage collaboration |
+| Web engineering | Test |
+ 
 ### Programming Background Music Playlists 
     
 - [M2](https://music.youtube.com/playlist?list=PLchgpP8jqdSTzvwZ5b5fjXDq5CEaEVITq)
