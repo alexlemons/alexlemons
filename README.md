@@ -12,9 +12,10 @@
     - UX design and optimization
 - Languages:  
     - English native speaker
-    - Japanese
-- Education:  
-    - University of Sheffield, MSc Chemistry
+    - Japanese beginner
+- Education:
+    - Shinjuku Language Institute, Japanese 150h (2025)   
+    - University of Sheffield, MSc Chemistry (2010)
       
 ### Tech Stack
 
