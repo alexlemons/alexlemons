@@ -11,7 +11,7 @@
     - Microservices (REST and gRPC)
     - UX design and optimization
 - Languages:  
-    - English native
+    - English native speaker
     - Japanese
 - Education:  
     - University of Sheffield, MSc Chemistry
