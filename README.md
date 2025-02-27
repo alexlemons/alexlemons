@@ -15,7 +15,8 @@
     - Japanese
 - Education:  
     - University of Sheffield, MSc Chemistry
- 
+
+| Command | Description |
 | --- | --- |
 | Engineering management | - Working across disciplines, supporting product and engineering teams  - Ability to solve problems and encourage collaboration |
 | Web engineering | Test |
