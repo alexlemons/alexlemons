@@ -10,6 +10,15 @@
     - Automated testing
     - Microservices (REST and gRPC)
     - UX design and optimization
+- Languages:  
+    - English native
+    - Japanese
+- Education:  
+    - University of Sheffield, MSc Chemistry
+ 
+### Programming Background Music Playlists 
+    
+- [M2](https://music.youtube.com/playlist?list=PLchgpP8jqdSTzvwZ5b5fjXDq5CEaEVITq)
 
 ### Tech Stack
 
@@ -22,13 +31,3 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
-### Other
-
-- Languages:  
-    - English native
-    - Japanese
-- Education:  
-    - University of Sheffield, MSc Chemistry
-- Music Playlists:  
-    - [M2](https://music.youtube.com/playlist?list=PLchgpP8jqdSTzvwZ5b5fjXDq5CEaEVITq)
