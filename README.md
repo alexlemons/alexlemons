@@ -1,25 +1,13 @@
 ### Experience
 
 - 9+ years
-- Engineering management:  
-    - Working across disciplines, supporting product and engineering teams
-    - Ability to solve problems and encourage collaboration
-    - Ability to collect and provide meaningful context
-- Web engineering:  
-    - Development of complex applications serving users globally
-    - Automated testing
-    - Microservices (REST and gRPC)
-    - UX design and optimization
-- Languages:  
-    - English native
-    - Japanese
-- Education:  
-    - University of Sheffield, MSc Chemistry
 
-| Command | Description |
+| | Details |
 | --- | --- |
-| Engineering management | <ul><li>Working across disciplines, supporting product and engineering teams</li><li>Ability to solve problems and encourage collaboration </li></ul> |
-| Web engineering | Test |
+| Engineering management | <ul><li>Working across disciplines, supporting product and engineering teams</li><li>Ability to solve problems and encourage collaboration</li><li>Ability to collect and provide meaningful context</li></ul> |
+| Web engineering | <ul><li>Development of complex applications serving users globally</li><li>Automated testing</li><li>Microservices (REST and gRPC)</li><li>UX design and optimization</li></ul> |
+| Languages | <ul><li>English native speaker</li><li>Japanese</li></ul> |
+| Education | <ul><li>University of Sheffield, MSc Chemistry</li></ul> |
  
 ### Programming Background Music Playlists 
     
