@@ -29,6 +29,6 @@
     - English native
     - Japanese
 - Education:  
-University of Sheffield, MSc Chemistry
+    - University of Sheffield, MSc Chemistry
 - Music Playlists:  
     - [M2](https://music.youtube.com/playlist?list=PLchgpP8jqdSTzvwZ5b5fjXDq5CEaEVITq)
