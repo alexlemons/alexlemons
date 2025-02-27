@@ -18,10 +18,7 @@
 
 | Command | Description |
 | --- | --- |
-| Engineering management | 
-    - Working across disciplines, supporting product and engineering teams
-    - Ability to solve problems and encourage collaboration 
-|
+| Engineering management | <ul><li>Working across disciplines, supporting product and engineering teams</li><li>Ability to solve problems and encourage collaboration </li></ul> |
 | Web engineering | Test |
  
 ### Programming Background Music Playlists 
