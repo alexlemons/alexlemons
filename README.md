@@ -11,11 +11,8 @@
     - Microservices (REST and gRPC)
     - UX design and optimization
     - Creative coding and WebGL
-- Languages:  
-    - English native speaker
-    - Japanese beginner
 - Education:
-    - Shinjuku Language Institute (2025), Japanese 150h
+    - Shinjuku Japanese Language Institute (2025)
     - University of Sheffield (2010), MSc Chemistry
       
 ### Tech Stack
