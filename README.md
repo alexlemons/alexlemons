@@ -12,8 +12,8 @@
     - UX design and optimization
     - Creative coding and WebGL
 - Education:
-    - Shinjuku Japanese Language Institute (2025)
-    - University of Sheffield (2010), MSc Chemistry
+    - Shinjuku Japanese Language Institute (2025-)
+    - University of Sheffield (2006-2010), MSc Chemistry
       
 ### Tech Stack
 
