@@ -1,18 +1,8 @@
 ### Experience
 
-- 9+ years
-- Engineering management:  
-    - Working across disciplines, supporting product and engineering teams
-    - Ability to solve problems and encourage collaboration
-    - Ability to collect and provide meaningful context
-- Web engineering:  
-    - Development of complex applications serving users globally
-    - Automated testing
-    - Microservices (REST and gRPC)
-    - UX design and optimization
-- Education:
-    - Shinjuku Japanese Language Institute (2025-)
-    - University of Sheffield (2006-2010), MSc Chemistry
+8+ years working on complex and data intensive web applications serving users globally.
+
+### Projects
       
 ### Tech Stack
 
