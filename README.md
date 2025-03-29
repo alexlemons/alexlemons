@@ -1,6 +1,4 @@
-### Experience
-
-8+ years working on complex and data intensive web applications serving users globally.
+Senior Frontend engineer with 8+ years working on complex and data intensive web applications serving users globally.
 
 ### Projects
       
