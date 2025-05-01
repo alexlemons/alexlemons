@@ -1,7 +1,4 @@
-Senior Frontend Engineer.  
-9+ years working on complex web applications serving users globally.  
-
-### Links
+### Projects
       
 ### Tech Stack
 
@@ -12,4 +9,3 @@ Senior Frontend Engineer.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
