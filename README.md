@@ -1,6 +1,6 @@
 ### Projects
 
-[Kanjigen](https://alexlemons.github.io/kanjigen/) is a UI for the [Kanjidic](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project) dictionary project. It can be used as a reference for students learning the language.
+[Kanjigen](https://alexlemons.github.io/kanjigen/) is a Kanji dictionary. It can be used as a reference for students learning Japanese. It uses [Kanjidic](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project) as its data source.
       
 ### Tech Stack
 
